@@ -1,4 +1,3 @@
-# time complexity = O(n)
 
 numbers = [1,2,3,4,5,6,7]
 
@@ -14,3 +13,5 @@ def reverselist (li) :
     return li
 
 print(reverselist(numbers))
+
+# time complexity = O(n)
